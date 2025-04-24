@@ -1,4 +1,5 @@
 📊 LeetCode Matrix Viewer (JavaScript)
+
 A simple web application that fetches and displays LeetCode user statistics using a proxy server. Built with JavaScript, HTML, and CSS, this tool allows users to view their LeetCode metrics in a structured format.
 
 🚀 Features
